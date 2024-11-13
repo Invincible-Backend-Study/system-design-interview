@@ -10,3 +10,4 @@
 - [HiiWee](https://github.com/HiiWee)
 - [yudonggeun](https://github.com/yudonggeun)
 - [tidavid1](https://github.com/tidavid1)
+- [JuSeong1130](https://github.com/JuSeong1130)
